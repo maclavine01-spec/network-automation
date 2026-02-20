@@ -13,3 +13,5 @@ This repository contains automation scripts and documentation for Cisco ACI, Pal
 Clone the repo and run scripts with Python or Ansible:
 ```bash
 python scripts/cisco_config.py
+
+---author Michael Thuku Macharia
